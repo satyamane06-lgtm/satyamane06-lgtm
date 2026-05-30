@@ -69,16 +69,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=satyamane06-lgtm&theme=tokyonight&column=6&margin-w=15" alt="Satyam's GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
