@@ -1,96 +1,174 @@
-# Hi 👋, I'm Satyam Mane
+# 👋 Hi, I'm Satyam Mane
 
 <p align="center">
-  <a href="https://github.com/satyamane06-lgtm">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Developer;Creative+3D+Web+Developer;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer;Django+%7C+React+%7C+MySQL;Building+Real-World+Web+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  🚀 Passionate developer focusing on interactive frontend experiences, 3D WebGL graphics, and robust Java backends.
-</p>
-
----
-
-### 📝 About Me
-
-- 🌱 I’m currently learning **Three.js, WebGL, React, and Advanced Spring Boot**
-- 💻 I love building modern, responsive web applications and interactive 3D games (like Game-O-Thon projects!)
-- ⚡ Focused on mastering Full Stack Web Development and creating clean, scalable architectures
-- 🔥 Goal: Build high-impact projects, collaborate with global developers, and land a strong tech career
-
----
-
-### 🛠️ Technical Skills
-
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511F2.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  
-  <br/>
-
-  <!-- Backend & Languages -->
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  
-  <br/>
-
-  <!-- Tools & Dev -->
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
   <a href="https://github.com/satyamane06-lgtm">
-    <img src="https://github-readme-stats.vercel.app/api?username=satyamane06-lgtm&show_icons=true&theme=tokyonight&hide_border=true" alt="Satyam's GitHub Stats" />
+    <img src="https://img.shields.io/badge/GitHub-satyamane06--lgtm-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <br/>
-  <a href="https://github.com/satyamane06-lgtm">
-    <img src="https://streak-stats.demolab.com/?user=satyamane06-lgtm&theme=tokyonight&hide_border=true" alt="Satyam's Streak Stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/satyamane06-lgtm">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamane06-lgtm&layout=compact&theme=tokyonight&hide_border=true" alt="Satyam's Top Languages" />
+  <a href="https://satyam-mane-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-### 📈 Contribution Graph
+## 🚀 About Me
 
-<p align="center">
-  <a href="https://github.com/satyamane06-lgtm">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamane06-lgtm&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Satyam's Activity Graph" />
-  </a>
+I'm an aspiring **Python Full Stack Developer** passionate about building responsive, user-friendly and scalable web applications.
+
+* 🎓 MCA Student
+* 🐍 Python & Django Developer
+* ⚛️ React Frontend Developer
+* 🗄️ MySQL & SQL
+* 🔗 Learning REST API Development
+* 💡 Interested in solving real-world software problems
+* 🌱 Continuously learning new technologies
+* 🤝 Open to collaboration and career opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+### 🗄️ Database & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+## 🚀 Featured Projects
+
+### 💰 Loan Vault — Secure Loan Management System
+
+A full-stack loan management system built to manage customers, employees, loans and payment workflows.
+
+**Tech Stack:** Python · Django · MySQL · HTML · CSS · JavaScript · Bootstrap
+
+**Highlights:**
+
+* 🔐 Role-based authentication
+* 👥 Customer & employee management
+* 💰 Loan processing and approval
+* 📄 KYC management
+* 🧾 Payment & receipt workflow
+* 📊 Loan status tracking
+* 📈 Dashboard and reports
+
+---
+
+### 🏨 Hotel Booking System
+
+A responsive hotel booking application created to practice frontend development and React.
+
+**Tech Stack:** React · JavaScript · HTML · CSS · Bootstrap
+
+**Highlights:**
+
+* 🏨 Hotel listing
+* 🛏️ Room information
+* 📅 Booking interface
+* 📱 Responsive design
+* ⚡ Interactive UI
+
+---
+
+### 📝 BlogSphere — Blogging Platform
+
+A blogging platform developed with Flask for creating and managing blog content.
+
+**Tech Stack:** Python · Flask · HTML · CSS · Bootstrap
+
+**Highlights:**
+
+* ✍️ Blog creation and management
+* 📖 Content management
+* 🎨 Responsive interface
+* 🔧 Flask backend
+
+---
+
+## 🌐 My Portfolio
 
 <p align="center">
-  <a href="https://linkedin.com/in/satyam-mane" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:satyamane06@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/satyamane06" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+
+<a href="https://satyam-mane-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0A66C2?style=for-the-badge" alt="Portfolio" />
+</a>
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```text
+REST APIs          ███████████████░░░░░
+Django REST        ██████████████░░░░░░
+FastAPI            ████████████░░░░░░░░
+JWT Authentication ███████████░░░░░░░░░
+Advanced React     ████████████░░░░░░░░
+Docker             █████████░░░░░░░░░░░
+```
+
+---
+
+## 🎯 Career Goal
+
+To start my career as a **Python Full Stack Developer**, contribute to real-world software projects, improve my technical skills and grow into a senior software development role.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/satyamane06-lgtm">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://satyam-mane-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+
+<a href="https://linkedin.com/in/satyam-mane">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep growing. 🚀</i>
 </p>
